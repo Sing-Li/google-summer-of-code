@@ -56,6 +56,8 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
 
+📢 **Communication Channel:** [idea: Message Timestamp Date Picker Components](https://open.rocket.chat/channel/idea-Message-Timestamp-Date-Picker-Components)
+
 💬 **Description:**
 Currently Rocket.Chat has a feature that allows users to send timestamps on messages, but not in an intuitive way. To send a timestamp you need to manually write it down with the correct date code. For example `<t:1732557600:t>`.
 This feature was added for Rocket.Chat Apps engine, but users can benefit from this too. The objective of this project is to create a new `MessageToolBar` item that displays a calendar and let the users select the date and time they would like to share, both in the desktop app and mobile apps.
@@ -153,6 +155,8 @@ Safety of server operation must be taken into account as this agent has ability 
 
 👥 **Mentor(s):** Zishan Ahmad
 
+📢 **Communication Channel:** [idea: Embedded Chat 2025](https://open.rocket.chat/channel/idea-Embedded-Chat-2025)
+
 💬 **Description:**
 
 Improvement to the EmbeddedChat project this year includes:
@@ -179,6 +183,8 @@ React.Js
 ### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
 
 👥 **Mentor(s):** Maria Khelli, Sing Li
+
+📢 **Communication Channel:** [idea: Receipts Processor and Reporting App powered by Multi-modal LLMs](https://open.rocket.chat/channel/idea-Receipts-Processor-and-Reporting-App-powered-by-Multi-modal-LLMs)
 
 💬 **Description:**  
 
@@ -212,6 +218,8 @@ A working Rocket.Chat app that will scan and sum all the restaurant receipts upl
 ### 💡 AI Docs Assistant App
 
 👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu  
+
+📢 **Communication Channel:** [idea: AI Docs Assistant App](https://open.rocket.chat/channel/idea-AI-Docs-Assistant-App)
 
 💬 **Description:**  
 
@@ -284,6 +292,8 @@ A functional community hub website that we will use for 2026; showcasing the pla
 
 👥 **Mentor(s):**  Hardik Bhatia
 
+📢 **Communication Channel:** [idea: AI Chat Workflows Automation App with multi-step reasoning](https://open.rocket.chat/channel/idea-AI-Chat-Workflows-Automation-App-with-multi-step-reasoning)
+
 💬 **Description:**  
 
 Build a Rocket.Chat app that will monitor messages in specified channels (possibly sent by specified individuals, possibly within certain specified time period, and so on... )  and then (as a second step) perform additional messaging operations based on those messages.  Command should be issued in simple English. Bonus point for more than 2 steps in the reasoning.
@@ -329,6 +339,8 @@ Platform for generating functional automated chat workflows using LLMs.
 
 👥 **Mentor(s):** Ricardo Garim
 
+📢 **Communication Channel:** [idea: Messages scheduling](https://open.rocket.chat/channel/idea-Messages-scheduling)
+
 💬 **Description:**
 
 Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
@@ -351,6 +363,8 @@ Add a native Rocket.Chat feature that lets users schedule messages to be sent la
 ### 💡In-browser, on-device, client-side LLM inference and API Access
 
 👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
+
+📢 **Communication Channel:** [idea: inbrowser ondevice clientside llm inference for millions](https://open.rocket.chat/channel/idea-inbrowser-ondevice-clientside-llm-inference-for-millions)
 
 💬 **Description:**  
 
